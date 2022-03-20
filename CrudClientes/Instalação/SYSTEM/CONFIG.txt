@@ -1,0 +1,4 @@
+nomecomputador\instancia
+nomedobanco
+usuario
+senha

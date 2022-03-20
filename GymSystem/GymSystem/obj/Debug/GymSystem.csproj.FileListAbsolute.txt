@@ -1,0 +1,24 @@
+G:\Meu Drive\PROJECTS\C#\GymSystem\GymSystem\bin\Debug\GymSystem.exe.config
+G:\Meu Drive\PROJECTS\C#\GymSystem\GymSystem\bin\Debug\GymSystem.exe
+G:\Meu Drive\PROJECTS\C#\GymSystem\GymSystem\bin\Debug\GymSystem.pdb
+G:\Meu Drive\PROJECTS\C#\GymSystem\GymSystem\obj\Debug\GymSystem.csprojAssemblyReference.cache
+G:\Meu Drive\PROJECTS\C#\GymSystem\GymSystem\obj\Debug\GymSystem.Properties.Resources.resources
+G:\Meu Drive\PROJECTS\C#\GymSystem\GymSystem\obj\Debug\GymSystem.csproj.GenerateResource.cache
+G:\Meu Drive\PROJECTS\C#\GymSystem\GymSystem\obj\Debug\GymSystem.csproj.CoreCompileInputs.cache
+G:\Meu Drive\PROJECTS\C#\GymSystem\GymSystem\obj\Debug\GymSystem.exe
+G:\Meu Drive\PROJECTS\C#\GymSystem\GymSystem\obj\Debug\GymSystem.pdb
+G:\Meu Drive\PROJECTS\C#\GymSystem\GymSystem\obj\Debug\GymSystem.frmPrincipal.resources
+G:\Meu Drive\PROJECTS\C#\GymSystem\GymSystem\obj\Debug\GymSystem.frmAlunos.resources
+G:\Meu Drive\PROJECTS\C#\GymSystem\GymSystem\obj\Debug\GymSystem.FrmPesquisaAlunos.resources
+C:\Users\fabia\source\repos\GymSystem\GymSystem\bin\Debug\GymSystem.exe.config
+C:\Users\fabia\source\repos\GymSystem\GymSystem\bin\Debug\GymSystem.exe
+C:\Users\fabia\source\repos\GymSystem\GymSystem\bin\Debug\GymSystem.pdb
+C:\Users\fabia\source\repos\GymSystem\GymSystem\obj\Debug\GymSystem.csprojAssemblyReference.cache
+C:\Users\fabia\source\repos\GymSystem\GymSystem\obj\Debug\GymSystem.frmAlunos.resources
+C:\Users\fabia\source\repos\GymSystem\GymSystem\obj\Debug\GymSystem.FrmPesquisaAlunos.resources
+C:\Users\fabia\source\repos\GymSystem\GymSystem\obj\Debug\GymSystem.frmPrincipal.resources
+C:\Users\fabia\source\repos\GymSystem\GymSystem\obj\Debug\GymSystem.Properties.Resources.resources
+C:\Users\fabia\source\repos\GymSystem\GymSystem\obj\Debug\GymSystem.csproj.GenerateResource.cache
+C:\Users\fabia\source\repos\GymSystem\GymSystem\obj\Debug\GymSystem.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\GymSystem\GymSystem\obj\Debug\GymSystem.exe
+C:\Users\fabia\source\repos\GymSystem\GymSystem\obj\Debug\GymSystem.pdb
