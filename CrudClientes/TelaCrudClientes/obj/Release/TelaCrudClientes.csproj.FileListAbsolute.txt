@@ -39,3 +39,14 @@ C:\Users\fabia\Documents\Projects\C#\TelaCrudClientes\TelaCrudClientes\obj\Relea
 C:\Users\fabia\source\repos\TelaCrudClientes\TelaCrudClientes\obj\Release\TelaCrudClientes.csprojAssemblyReference.cache
 C:\Users\fabia\source\repos\TelaCrudClientes\TelaCrudClientes\obj\Release\TelaCrudClientes.frmCadastroClientes.resources
 C:\Users\fabia\source\repos\TelaCrudClientes\TelaCrudClientes\obj\Release\TelaCrudClientes.frmClientes.resources
+C:\Desenvolvimento\.NET\CrudClientes\TelaCrudClientes\bin\Release\TelaCrudClientes.exe.config
+C:\Desenvolvimento\.NET\CrudClientes\TelaCrudClientes\bin\Release\TelaCrudClientes.exe
+C:\Desenvolvimento\.NET\CrudClientes\TelaCrudClientes\bin\Release\TelaCrudClientes.pdb
+C:\Desenvolvimento\.NET\CrudClientes\TelaCrudClientes\obj\Release\TelaCrudClientes.csprojAssemblyReference.cache
+C:\Desenvolvimento\.NET\CrudClientes\TelaCrudClientes\obj\Release\TelaCrudClientes.frmCadastroClientes.resources
+C:\Desenvolvimento\.NET\CrudClientes\TelaCrudClientes\obj\Release\TelaCrudClientes.frmClientes.resources
+C:\Desenvolvimento\.NET\CrudClientes\TelaCrudClientes\obj\Release\TelaCrudClientes.Properties.Resources.resources
+C:\Desenvolvimento\.NET\CrudClientes\TelaCrudClientes\obj\Release\TelaCrudClientes.csproj.GenerateResource.cache
+C:\Desenvolvimento\.NET\CrudClientes\TelaCrudClientes\obj\Release\TelaCrudClientes.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\.NET\CrudClientes\TelaCrudClientes\obj\Release\TelaCrudClientes.exe
+C:\Desenvolvimento\.NET\CrudClientes\TelaCrudClientes\obj\Release\TelaCrudClientes.pdb
